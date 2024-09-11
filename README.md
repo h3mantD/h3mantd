@@ -64,3 +64,8 @@
 [twitter]: https://twitter.com/ima_n00b
 [instagram]: https://instagram.com/h.e.m.a.n.t.d
 [linkedin]: https://www.linkedin.com/in/hemant-durdhawale-642334165/
+
+<br>
+<br>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=h3mantDf&countColor=%237B1E7A)

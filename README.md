@@ -114,7 +114,4 @@ Whether it's a back-office platform, a text transformation tool, or a package fo
   <i>I enjoy building practical software, improving existing systems, and making complex workflows easier to maintain and understand.</i>
 </p>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=h3mantd&countColor=%237B1E7A" alt="Visitor badge" />
-</p>
 
